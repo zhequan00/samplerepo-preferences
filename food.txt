@@ -1,1 +1,4 @@
 I like apples
+I hate bananas
+I like cake
+I like donuts
